@@ -1,6 +1,4 @@
-Below is a shortened version of the `README.md` file for the AptiGenius Flutter app, maintaining essential information for setup and execution while keeping it concise. The structure is still well-organized for GitHub.
 
-```markdown
 # AptiGenius - Aptitude Test App
 
 ## Introduction
